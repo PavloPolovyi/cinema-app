@@ -53,8 +53,8 @@ and <a href="https://maven.apache.org/install.html">Maven</a>
 ```bash
 git clone https://github.com/PavloPolovyi/taxi-service
 ```
-4️⃣  Configure app.properties in resources folder: set db.user and db.password 
-2️⃣  Run command
+:three:  Configure app.properties in resources folder: set db.user and db.password <br>
+:four:  Run command
 ```bash
 mvn build
 ```
