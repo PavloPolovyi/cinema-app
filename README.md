@@ -32,13 +32,15 @@ to procces it and store in database. Send back data to users, when they request 
 <p>
 <img align="left" width="60px" alt="Java" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" style="padding-right:10px;"/>
 <img align="left" width="60px" alt="Spring" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" style="padding-right:10px;"/>
+  <img align="left" width="50px" alt="Spring-Security" src="./img/spring-security.svg" style="padding-right:10px;"/>
+
 <img align="left" width="60px" alt="Maven" src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png" style="padding-right:10px;"/>
 <img align="left" width="60px" alt="Hibernate" src="https://user-images.githubusercontent.com/25181517/117207493-49665200-adf4-11eb-808e-a9c0fcc2a0a0.png" style="padding-right:10px;"/>
 <img align="left" width="60px" alt="Liquibase" src="https://user-images.githubusercontent.com/25181517/183891673-32824908-bc5d-44f8-8f72-f0415822404a.png" style="padding-right:10px;"/>
 <img align="left" width="60px" alt="Lombok" src="https://user-images.githubusercontent.com/25181517/190229463-87fa862f-ccf0-48da-8023-940d287df610.png" style="padding-right:10px;"/>
 <img align="left" width="60px" alt="TomCat" src="https://user-images.githubusercontent.com/25181517/183894676-137319b5-1364-4b6a-ba4f-e9fc94ddc4aa.png" style="padding-right:10px;"/>
 <img align="left" width="60px" alt="MySQL" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" style="padding-right:10px;"/>
-</p><br><br>
+</p><br><br><br>
 
 
 <h2 align="center">:bomb:Instructions for launching the project:bomb:</h2>
