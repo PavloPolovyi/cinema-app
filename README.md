@@ -40,7 +40,7 @@ to procces it and store in database. Send back data to users, when they request 
 <img align="left" width="60px" alt="Lombok" src="https://user-images.githubusercontent.com/25181517/190229463-87fa862f-ccf0-48da-8023-940d287df610.png" style="padding-right:10px;"/>
 <img align="left" width="60px" alt="TomCat" src="https://user-images.githubusercontent.com/25181517/183894676-137319b5-1364-4b6a-ba4f-e9fc94ddc4aa.png" style="padding-right:10px;"/>
 <img align="left" width="60px" alt="MySQL" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" style="padding-right:10px;"/>
-</p><br><br><br>
+</p><br><br><br><br><br>
 
 
 <h2 align="center">:bomb:Instructions for launching the project:bomb:</h2>
