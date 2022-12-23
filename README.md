@@ -25,7 +25,7 @@ SOLID principles and is built up using N-tier architectural principle.
 <h2 align="center">:bricks:Project structure:bricks:</h2>
 - Controllers - take main part in request/response cycle, receive data from users and invoke business logic of services 
 to procces it and store in database. Send back data to users, when they request it.<br>
-- Services - these layers coordinates work of all application, procces commands and performs calculations.<br>
+- Services - this layer coordinates work of all application, procces commands and performs calculations.<br>
 - Data access objects - here information is stored and retrieved.
 
 <h2 align="center">:gear:Technologies:gear:</h2>
