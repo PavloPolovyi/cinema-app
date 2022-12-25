@@ -19,7 +19,6 @@ SOLID principles and is built up using N-tier architectural principle.
 - Authorization with two roles: user and admin<br>
 - CRUD operations<br>
 - Saving data to the database<br>
-- Full compatibilities with REST principles<br>
 - 3-layer architecture: Controllers, Services and Repositories<br>
 
 <h2 align="center">:bricks:Project structure:bricks:</h2>
