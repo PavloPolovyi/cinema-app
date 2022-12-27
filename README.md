@@ -58,3 +58,5 @@ git clone https://github.com/PavloPolovyi/taxi-service
 mvn build
 ```
 5️⃣  Configure TomCat for this project and run it
+
+:six: You need tool like <a href="https://curl.se/">Curl</a> or other utility that can send http requests to see how Cinema app works. You can use default user (email: admin@i.ua, password: admin123) or create your own by calling POST http method on "/register" endpoint and providing json object in format '{email:your email or whatever, password:your password}'.
